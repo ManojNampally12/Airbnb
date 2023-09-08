@@ -1,0 +1,10 @@
+.app{
+    display:flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+
+}
+.holiday-app{
+    margin-top: 200px;
+    margin-bottom: 60px;
+}
